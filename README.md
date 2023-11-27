@@ -20,3 +20,9 @@ content
 - second item
 - another item
 
+## link a page
+[markdown guide](https://www.markdownguide.org/cheat-sheet/)
+[spiced academy](https://www.spiced-academy.com/en)
+
+
+
