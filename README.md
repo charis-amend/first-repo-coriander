@@ -22,7 +22,6 @@ content
 
 ## link a page
 [markdown guide](https://www.markdownguide.org/cheat-sheet/)
-<p></p>
 [spiced academy](https://www.spiced-academy.com/en)
 
 <p></p>
