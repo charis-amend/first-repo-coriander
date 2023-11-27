@@ -31,3 +31,13 @@ content
 
 ![own private image of los angeles](./cmoncmonla.png)
 
+## Code
+
+### Code line
+we can add code like this `line of code` 
+<p></p>
+
+`name=Charis`
+
+
+
