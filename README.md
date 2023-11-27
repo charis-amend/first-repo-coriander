@@ -39,5 +39,18 @@ we can add code like this `line of code`
 
 `name=Charis`
 
+### block of a code
+
+``` with 3 of these ` i write a block of code```
+and add name of language:
+
+```js
+let cohort = "coriander";
+let students = 17; 
+```
+
+
+
+
 
 
