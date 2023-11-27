@@ -1,2 +1,5 @@
-# first-repo-coriander
-First repository of coriander cohort
+# Learning Github and markdown.
+
+this is the description: First repository of coriander cohort
+
+
