@@ -29,4 +29,5 @@ content
 
 ![image that shows taylor swift performing](https://www.24books.de/assets/images/31/771/31771886-taylor-swift-bei-einem-auftritt-in-nashville-2m3yQzBX8se9.jpg)
 
+![own private image of los angeles](./cmoncmonla.png)
 
